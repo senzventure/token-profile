@@ -1,0 +1,20 @@
+{
+  "symbol": "SENZ",
+  "address": "0x69ec1d97df48cf7c3eaf8727f20032ef44804872",
+  "overview":{
+        "en": "SVC is an enterprise focus on health and environmental industry, integrated blockchain, internet and entity industry to operate and to develop global business.",
+        "zh": "盛希集团是一个以健康产业，结合区块链，互联网以及实体业布局全球，惠及大众包括投资者的企业。"
+  },
+  "email": "senzventure@gmail.com",
+  "website": "http://senzve.com/",
+  "whitepaper": "http://senzve.com/wp-content/uploads/2018/06/senz-whitepaper.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-06-12",
+  "initial_price":{
+        "ETH":"0.00018949 ETH",
+        "USD":"0.1 USD",
+        "BTC":"0.00001472 BTC"
+  },
+  "links": {
+  }
+}
